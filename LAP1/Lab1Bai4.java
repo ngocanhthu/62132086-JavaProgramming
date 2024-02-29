@@ -6,7 +6,6 @@ package Lab1;
 
 /**
  *
- * @author Nguyễn Văn Hải Long
  */
 import java.util.Scanner;
 
