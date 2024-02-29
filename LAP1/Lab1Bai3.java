@@ -7,7 +7,6 @@ package Lab1;
 import java.util.Scanner;
 /**
  *
- * @author Nguyễn Văn Hải Long
  */
 public class Lab1Bai3 {
     public static void main (String[] args)
